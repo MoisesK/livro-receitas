@@ -4,4 +4,4 @@ Olá! Bem-vindo ao meu livro de receitas! :hand:
 
 - Lasanha de Frango
 - Strogonoff de Frango
-- Chocolate
+- Chocolate Caseiro
