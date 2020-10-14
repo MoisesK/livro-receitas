@@ -2,4 +2,5 @@
 
 Olá! Bem-vindo ao meu livro de receitas! :hand:
 
-- Lasanhan de Frango
+- Lasanha de Frango
+- Chocolate
