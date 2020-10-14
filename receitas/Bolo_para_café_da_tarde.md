@@ -1,0 +1,20 @@
+# Bolo Prático e Rápido para Café da Tarde :cake:
+
+## INGREDIENTES
+
+- 2 xícaras (chá) de açúcar
+- 3 xícaras (chá) de farinha de trigo
+- 4 colheres (sopa) [de margarina](https://blog.tudogostoso.com.br/noticias/as-diferencas-entre-manteiga-e-margarina/)
+- 3 ovos
+- 1 e 1/2 xícara (chá) de leite
+- 1 colher (sopa)[ bem cheia de fermento em pó](https://blog.tudogostoso.com.br/noticias/diferencas-entre-fermento-em-po-e-bicarbonato-de-sodio/)
+
+## MODO DE PREPARO
+
+[  ] Bata as claras em neve e reserve.
+
+1. Misture as gemas, a margarina e o açúcar [até obter uma massa homogênea](https://blog.tudogostoso.com.br/dicas-de-cozinha/dicas-para-fazer-um-bolo-fofinho/).
+2. Acrescente o leite e a farinha de trigo aos poucos, sem parar de bater.
+3. Por último, adicione as claras em neve e o fermento.
+4. Despeje a massa em uma forma grande de furo central [untada e enfarinhada](https://blog.tudogostoso.com.br/dicas-de-cozinha/como-untar-a-forma-do-bolo/).
+5. Asse em forno médio 180 °C, preaquecido, por aproximadamente 40 minutos ou ao furar o bolo com um garfo, este saia limpo.
