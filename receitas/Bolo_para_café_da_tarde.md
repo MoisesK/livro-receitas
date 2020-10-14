@@ -1,4 +1,4 @@
-# Bolo Prático e Rápido para Café da Tarde :cake:
+# [Bolo Prático e Rápido para Café da Tarde :cake:]()
 
 ## INGREDIENTES
 
@@ -11,7 +11,7 @@
 
 ## MODO DE PREPARO
 
-1. Bata as claras em neve](https://blog.tudogostoso.com.br/dicas-de-cozinha/truques-claras-em-neve/) e reserve.
+1. Bata as claras em neve e reserve.
 2. Misture as gemas, a margarina e o açúcar [até obter uma massa homogênea](https://blog.tudogostoso.com.br/dicas-de-cozinha/dicas-para-fazer-um-bolo-fofinho/).
 3. Acrescente o leite e a farinha de trigo aos poucos, sem parar de bater.
 4. Por último, adicione as claras em neve e o fermento.
