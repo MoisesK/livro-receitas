@@ -1,6 +1,16 @@
-# ![alt](https://i.imgur.com/az8VxJi.png)
+# ![alt](https://i.imgur.com/31Hormx.png)
 
-Olá! Bem-vindo ao meu livro de receitas! :hand:
+![Imgur](https://i.imgur.com/JXwyH3W.png)
+
+​                    
+
+####      :arrow_right_hook: PARA NAVEGAR DE FORMA       RÁPIDA,USE O ÍNDICE E OS LINKS QUE        ESTÃO ANEXADOS NELE!
+
+
+
+<img src="https://i.imgur.com/GgqHoO5.png" alt="Imgur" style="zoom:150%;" />
+
+ 
 
 - Lasanha de Frango :arrow_down:
 
