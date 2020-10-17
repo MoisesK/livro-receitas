@@ -1,6 +1,6 @@
 <img src="https://i.imgur.com/E6us2wT.png" alt="Imgur" style="zoom:200%;" />
 
-<img src="https://truffle-assets.imgix.net/84cnzp0itw1q_1fII51fA1eEWmSAuQEA0y2_marshmallow-caseiro_landscapeThumbnail_pt.jpeg" alt="img" style="zoom:50%;" />
+<img src="https://t2.rg.ltmcdn.com/pt/images/7/0/9/img_marshmallow_caseiro_com_gelatina_2907_orig.jpg" alt="img" style="zoom:50%;" />
 
 ## INGREDIENTES
 
