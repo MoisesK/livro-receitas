@@ -1,4 +1,4 @@
-# ![alt](/home/moises/Documentos/Workspace/Livro-receitas/imagens/LivrodeReceitasLogo.png)
+# ![alt](https://i.imgur.com/az8VxJi.png)
 
 Olá! Bem-vindo ao meu livro de receitas! :hand:
 
