@@ -1,4 +1,6 @@
-# Chocolate Caseiro :chocolate_bar:
+# <img src="https://i.imgur.com/PAok2NP.png" alt="Imgur" style="zoom:200%;" />
+
+<img src="https://img.itdg.com.br/tdg/images/recipes/000/196/708/296287/296287_original.jpg?mode=crop&width=710&height=400" alt="im" style="zoom:50%;" />
 
 ### INGREDIENTES
 
