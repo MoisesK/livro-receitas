@@ -10,27 +10,29 @@
 
 ​                                                      <img src="https://i.imgur.com/GgqHoO5.png" alt="Imgur" style="zoom:150%;" />
 
+## Almoço :spaghetti::meat_on_bone:
+
  
 
-- Lasanha de Frango :arrow_down:
+- [Lasanha de Frango](https://github.com/MoisesK/livro-receitas/blob/master/receitas/Lasanha.md) ​​
+- [Strogonoff de Frango](https://github.com/MoisesK/livro-receitas/blob/master/receitas/Strogonoff_de_frango.md)
 
-  <https://github.com/MoisesK/livro-receitas/blob/master/receitas/Lasanha.md> 
 
-- Strogonoff de Frango​ :arrow_down:
 
-  <https://github.com/MoisesK/livro-receitas/blob/master/receitas/Strogonoff_de_frango.md>
+## Sobremesa :shaved_ice::pancakes:
 
-- Marshmallow Caseiro​ :arrow_down:
 
-  <https://github.com/MoisesK/livro-receitas/blob/master/receitas/Marshmallow_Caseiro.md>
 
-- Chocolate Caseiro :arrow_down:
+- [Marshmallow Caseiro](https://github.com/MoisesK/livro-receitas/blob/master/receitas/Marshmallow_Caseiro.md)
+- [Chocolate Caseiro](https://github.com/MoisesK/livro-receitas/blob/master/receitas/chocolate_caseiro.md)
 
-  <https://github.com/MoisesK/livro-receitas/blob/master/receitas/chocolate_caseiro.md>
 
-- Bolo para Café da Tarde :arrow_down:
 
-  <https://github.com/MoisesK/livro-receitas/blob/master/receitas/Bolo_para_caf%C3%A9_da_tarde.md>
+## Café da Tarde :bread::coffee:
+
+- [Bolo para Café da Tarde](https://github.com/MoisesK/livro-receitas/blob/master/receitas/Bolo_para_caf%C3%A9_da_tarde.md)
+
+  
 
 
 
