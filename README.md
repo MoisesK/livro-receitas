@@ -1,14 +1,14 @@
 # ![alt](https://i.imgur.com/31Hormx.png)
 
-![Imgur](https://i.imgur.com/JXwyH3W.png)
+<img src="https://i.imgur.com/JXwyH3W.png" alt="Imgur" style="zoom:60%;" />
 
 ​                    
 
-####      :arrow_right_hook: PARA NAVEGAR DE FORMA       RÁPIDA,USE O ÍNDICE E OS LINKS QUE        ESTÃO ANEXADOS NELE!
+:arrow_right_hook:   **_PARA NAVEGAR DE FORMA RÁPIDA,UTILIZE OS LINKS QUE ESTÃO ANEXADOS NO INDÍCE !_**
 
 
 
-​                                                      <img src="https://i.imgur.com/GgqHoO5.png" alt="Imgur" style="zoom:150%;" />
+​                                                      <img src="https://i.imgur.com/GgqHoO5.png" alt="Imgur" style="zoom:300%;" />
 
 ## Almoço :spaghetti::meat_on_bone:
 
