@@ -1,17 +1,26 @@
-# Livro de receitas :book: :man_cook: 
+# ![alt ](/home/moises/Documentos/Workspace/Livro-receitas/imagens/LivrodeReceitasLogo.png) 
 
 Olá! Bem-vindo ao meu livro de receitas! :hand:
 
-- Lasanha de Frango
+- Lasanha de Frango :arrow_down:
 
-- Strogonoff de Frango
+  <https://github.com/MoisesK/livro-receitas/blob/master/receitas/Lasanha.md> 
 
-- Marshmallow Caseiro
+- Strogonoff de Frango​ :arrow_down:
 
-- Chocolate Caseiro
+  <https://github.com/MoisesK/livro-receitas/blob/master/receitas/Strogonoff_de_frango.md>
 
-- Bolo para Café da Tarde
+- Marshmallow Caseiro​ :arrow_down:
 
+  <https://github.com/MoisesK/livro-receitas/blob/master/receitas/Marshmallow_Caseiro.md>
+
+- Chocolate Caseiro :arrow_down:
+
+  <https://github.com/MoisesK/livro-receitas/blob/master/receitas/chocolate_caseiro.md>
+
+- Bolo para Café da Tarde :arrow_down:
+
+  <https://github.com/MoisesK/livro-receitas/blob/master/receitas/Bolo_para_caf%C3%A9_da_tarde.md>
 
 
 
